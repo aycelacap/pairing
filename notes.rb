@@ -1,11 +1,12 @@
 # ----- BAD DEMO ------
-# ayce navigate for merge_sort
-# yu-huan drives 
+# ayce drives for merge_sort
+# yu-huan navigates
 # act like a troll the whole time
 # cocky
 # sexist (?)
 # interrupt
 # type ahead most of the time
+# 
 
 def merge_sort(array)
   return array if array.length <= 1

@@ -28,7 +28,7 @@ def merge(left, right)
 
   # until left.empty? || right.empty? yu-huwan types this instead
 
-  while left.length != 0 && rig
+  while left.length != 0 && right.length != 0
 end
 
 # ----- GOOD PAIR -----
